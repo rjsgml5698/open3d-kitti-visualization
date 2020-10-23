@@ -6,7 +6,7 @@ kitti training data visiualization with [open3d](http://www.open3d.org/)
 
 - python >=3.0
 - numpy
-- open3d
+- open3d == 0.8.0
 
 
 ## Visualization
